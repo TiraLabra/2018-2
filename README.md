@@ -1,4 +1,4 @@
-# Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit, periodi I
+# Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit, periodi II
 
 ## Ohjaaja
 
@@ -50,7 +50,7 @@ Käy kysymässä apua algoritmeihin liittyvissä asioissa [Algopajassa](https://
 
 ## Demotilaisuus
 
-* **17.10. kello 10:15-12 salissa C123**
+* Aika selviää pikimmiten
 * **PAKOLLINEN** kurssin läpipääsyyn
 * Projektit ladattu esityskoneelle etuajassa, josta näytetään oma työ.
 * Noin 5min per projekti.
