@@ -10,23 +10,20 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md). Also in [English](sivut/aika
 
 |  Viikko | Ma | Ti | Ke | To | Pe | La | Su |
 |---------------------------|:--:|:--:|:----------------------------:|:--:|:----------------------:|:--:|:----------:|
-| 44 29.10.- |  |  |  ~~Aloitustilaisuus 14-15 D123~~ |  |  |  | ~~[DL 1 23:59](sivut/aikataulu.md#viikko-1)~~ |
-| 45 5.11.- |  |  | |  |  ~~[DL 2 23:59](sivut/aikataulu.md#viikko-2)~~ |  |  |
-| 46 12.11.- |  |  |  |  |  ~~[DL 3 23:59](sivut/aikataulu.md#viikko-3)~~ |  |  |
-| 47 19.11.- |  |  |  |  | ~~[DL 4 23:59](sivut/aikataulu.md#viikko-4)~~ |  |  |
-| 48 26.11.- |  |  |  |  |  ~~[DL 5 23:59](sivut/aikataulu.md#viikko-5)~~ |  |  |
-| 49 3.12.- |  |  |  |  | ~~[DL 6 23:59](sivut/aikataulu.md#viikko-6)~~ |  |  |
-| 50 10.12.- |  |  | ~~DEMOT~~ |  |  |  |  |
-|  51 17.12.-  _Tenttiviikko_ |  |  |  |  |  ~~[Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo)~~ |  |  |
+| 44 29.10.- |  |  |  Aloitustilaisuus 14-15 D123 |  |  |  | [DL 1 23:59](sivut/aikataulu.md#viikko-1) |
+| 45 5.11.- |  |  | |  |  [DL 2 23:59](sivut/aikataulu.md#viikko-2) |  |  |
+| 46 12.11.- |  |  |  |  |  [DL 3 23:59](sivut/aikataulu.md#viikko-3) |  |  |
+| 47 19.11.- |  |  |  |  | [DL 4 23:59](sivut/aikataulu.md#viikko-4) |  |  |
+| 48 26.11.- |  |  |  |  |  [DL 5 23:59](sivut/aikataulu.md#viikko-5) |  |  |
+| 49 3.12.- |  |  |  |  | [DL 6 23:59](sivut/aikataulu.md#viikko-6) |  |  |
+| 50 10.12.- |  |  |  |  |  |  |  |
+|  51 17.12.-  _Tenttiviikko_ |  |  |  |  |  [Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo) |  |  |
 
 
 
 ## :mega: Ajankohtaista - News
- * **Kiitos kurssista!** Töiden tarkistus aloitetaan tällä viikolla.
- * Pajassa ei ollut ensimmäisellä viikolla ketään, joten jatkossa ohjausaikaa järjestetään pyynnöstä. Laita kysymykset sähköpostilla, tai jos tarvitset lähiopetusta, niin järjestetään aika erikseen.
+ * Pajan ohjausaikaa järjestetään pyynnöstä. Laita kysymykset sähköpostilla, tai jos tarvitset lähiopetusta, niin järjestetään aika erikseen. Etäopetus onnistuu sähköpostilla myös.
  * Muista myös, että voit pyytää apua [Algopajassa](https://courses.helsinki.fi/fi/TKT20000/126082463)!
- * There was nobody in the workshop during the first week, thus in the future the guidance will only be organized by request. Send your questions via e-mail or if you need it, a time can be scheduled for close-contact-guidance.
- * Also remember [Algorithm-workshop](https://courses.helsinki.fi/fi/TKT20000/126082463)!
 
 ## :notebook: Labtool
 
