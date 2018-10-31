@@ -34,7 +34,7 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md). Also in [English](sivut/aika
 Kurssin IRC-kanava on **#tiralabra** @IRCnet.
 Kurssin [telegram-kanava](https://t.me/tkttiralabra).
 
-Telegram kanava on (yleensä) sillattu irkkiin, joten ohjaajaan päässee käsiksi kumaapkin kautta.
+Telegram kanava on (yleensä) sillattu irkkiin, joten ohjaajaan päässee käsiksi kumpaakin kautta.
 
 ## Ohjaus
 
@@ -49,15 +49,15 @@ Käy kysymässä apua algoritmeihin liittyvissä asioissa [Algopajassa](https://
 
 * Aika selviää pikimmiten
 * **PAKOLLINEN** kurssin läpipääsyyn
-* Projektit ladattu esityskoneelle etuajassa, josta näytetään oma työ.
+* Projektit ladattu etukäteen esityskoneelle, josta näytetään oma työ.
 * Noin 5min per projekti.
 * Ei tarvitse dioja, mutta halutessaan niitä voi käyttää, tosin ne vie aikaa, joten ei suositeltu, ellei tuo omaa konetta esitykseen.
 
 ## Esimerkkiprojektit
 
-* [Saskelin projekti](https://github.com/saskeli/NonogramSolver_TiRa) **Huom:** että etenkin jälkeen kurssi on jonkin verran muuttunut.
+* [Saskelin projekti](https://github.com/saskeli/NonogramSolver_TiRa) **Huom:** että etenkin tämän jälkeen kurssi on jonkin verran muuttunut.
 * Ja Jussi sanoi että [oma projektinsa](https://github.com/yussiv/Compress) oli kiireessä tehty mahdollisimman helpolla suoritettu.
-* Molemmat kuitenkin ovat projektirakenteiltaan hyviä jos haluaa esimerkkejä.
+* Molemmat kuitenkin ovat projektirakenteiltaan hyviä, jos haluaa esimerkkejä.
 
 ## :trophy: Kurssin suorittaminen
 Kurssin työmäärä on opintopisteiden (4) perusteella n. 107 tuntia. Varaudu siis käyttämään työhön 15-20 tuntia viikossa jokaisella viikolla.
