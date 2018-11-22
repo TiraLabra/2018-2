@@ -28,9 +28,6 @@
     * Viikkoraportti numero 3
     * Ohjelma: Ohjelman ydinalue edennyt, aloitettu mahdollisesti jo omien tietorakenteiden toteutus.
     * Testaus: Koodin *kattava* yksikkötestaus.
-
-* **Lisäksi palautukseen 4:**
-	* Tutustu [OTM materiaaliin koodin laadusta](https://github.com/mluukkai/otm-2018/blob/master/web/koodin_laatuvaatimukset.md) ja varmista, että noudatat hyviä periaatteita (voit myös katsoa [CheckStyle](https://github.com/mluukkai/otm-2018/blob/master/web/checkstyle.md) ohjeen).
 	
 # Viikko 4:
 
