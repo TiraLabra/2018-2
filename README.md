@@ -22,6 +22,7 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md). Also in [English](sivut/aika
 
 
 ## :mega: Ajankohtaista - News
+ * **Paja** Ti 27.11. 12:30- BK107, tule kysymään apua jos siihen on tarvetta.
  * Pajan ohjausaikaa järjestetään pyynnöstä. Laita kysymykset sähköpostilla, tai jos tarvitset lähiopetusta, niin järjestetään aika erikseen. Etäopetus onnistuu sähköpostilla myös.
  * Muista myös, että voit pyytää apua [Algopajassa](https://courses.helsinki.fi/fi/TKT20000/126082463)!
 
