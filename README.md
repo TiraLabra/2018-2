@@ -13,7 +13,7 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md). Also in [English](sivut/aika
 | **44** 29.10.- |  |  |  ~~Aloitustilaisuus 14-15 D123~~ |  |  |  | ~~[DL 1 23:59](sivut/aikataulu.md#viikko-1)~~ |
 | **45** 5.11.- |  |  | |  |  ~~[DL 2 23:59](sivut/aikataulu.md#viikko-2)~~ |  |  |
 | **46** 12.11.- |  |  |  |  |  ~~[DL 3 23:59](sivut/aikataulu.md#viikko-3)~~ |  |  |
-| **47** 19.11.- |  |  |  |  | [DL 4 23:59](sivut/aikataulu.md#viikko-4) |  |  |
+| **47** 19.11.- |  |  |  |  | ~~[DL 4 23:59](sivut/aikataulu.md#viikko-4)~~ |  |  |
 | **48** 26.11.- |  |  |  |  |  [DL 5 23:59](sivut/aikataulu.md#viikko-5) |  |  |
 | **49** 3.12.- |  |  |  |  | [DL 6 23:59](sivut/aikataulu.md#viikko-6) |  |  |
 | **50** 10.12.- |  |  |  |  |  |  |  |
