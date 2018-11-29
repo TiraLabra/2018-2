@@ -16,7 +16,7 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md). Also in [English](sivut/aika
 | **47** 19.11.- |  |  |  |  | ~~[DL 4 23:59](sivut/aikataulu.md#viikko-4)~~ |  |  |
 | **48** 26.11.- |  |  |  |  |  [DL 5 23:59](sivut/aikataulu.md#viikko-5) |  |  |
 | **49** 3.12.- |  |  |  |  | [DL 6 23:59](sivut/aikataulu.md#viikko-6) |  |  |
-| **50** 10.12.- |  |  |  |  |  |  |  |
+| **50** 10.12.- |  |  | DEMOT 12-14 |  |  |  |  |
 | **51** 17.12.-  _Tenttiviikko_ |  |  |  |  |  [Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo) |  |  |
 
 
