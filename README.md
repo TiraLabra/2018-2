@@ -14,7 +14,7 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md). Also in [English](sivut/aika
 | **45** 5.11.- |  |  | |  |  ~~[DL 2 23:59](sivut/aikataulu.md#viikko-2)~~ |  |  |
 | **46** 12.11.- |  |  |  |  |  ~~[DL 3 23:59](sivut/aikataulu.md#viikko-3)~~ |  |  |
 | **47** 19.11.- |  |  |  |  | ~~[DL 4 23:59](sivut/aikataulu.md#viikko-4)~~ |  |  |
-| **48** 26.11.- |  |  |  |  |  [DL 5 23:59](sivut/aikataulu.md#viikko-5) |  |  |
+| **48** 26.11.- |  |  |  |  |  ~~[DL 5 23:59](sivut/aikataulu.md#viikko-5)~~ |  |  |
 | **49** 3.12.- |  |  |  |  | [DL 6 23:59](sivut/aikataulu.md#viikko-6) |  |  |
 | **50** 10.12.- |  |  | DEMOT 12-14 |  |  |  |  |
 | **51** 17.12.-  _Tenttiviikko_ |  |  |  |  |  [Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo) |  |  |
@@ -47,7 +47,7 @@ Käy kysymässä apua algoritmeihin liittyvissä asioissa [Algopajassa](https://
 
 ## Demotilaisuus
 
-* Aika selviää pikimmiten
+* **Keskiviikkona 12.12. klo 12-14 salissa ???.**
 * **PAKOLLINEN** kurssin läpipääsyyn
 * Projektit ladattu etukäteen esityskoneelle, josta näytetään oma työ.
 * Noin 5min per projekti.
