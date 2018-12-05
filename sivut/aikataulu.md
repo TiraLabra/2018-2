@@ -63,7 +63,7 @@
 
 # Demo tilaisuus:
 
-* **Viikolla 50 klo 12-14** Exactumin salissa **B222**
+* **Keskiviikkona 12.12. klo 12-14** Exactumin salissa **B222**
 * Mahdollisuus esittää koulun koneelta, mutta aiemmin sen kanssa on ollut ongelmia joten suositeltavaa ottaa oma läppäri.
 * Lyhyt noin 5 minuuttinen esitys ja mahdollisiin kysymyksiin vastailu (riippuen aikataulusta).
 
