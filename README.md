@@ -16,13 +16,13 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md). Also in [English](sivut/aika
 | **47** 19.11.- |  |  |  |  | ~~[DL 4 23:59](sivut/aikataulu.md#viikko-4)~~ |  |  |
 | **48** 26.11.- |  |  |  |  |  ~~[DL 5 23:59](sivut/aikataulu.md#viikko-5)~~ |  |  |
 | **49** 3.12.- |  |  |  |  | ~~[DL 6 23:59](sivut/aikataulu.md#viikko-6)~~ |  |  |
-| **50** 10.12.- |  |  | **DEMOT 12-14 B222** |  |  |  |  |
-| **51** 17.12.-  _Tenttiviikko_ |  |  |  |  |  [Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo) |  |  |
+| **50** 10.12.- |  |  | ~~DEMOT 12-14 B222~~ |  |  |  |  |
+| **51** 17.12.-  _Tenttiviikko_ |  |  |  |  |  **[Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo)** |  |  |
 
 
 
 ## :mega: Ajankohtaista - News
- * Katso DEMO ajat kalenterista tai [aikataulusta](sivut/aikataulu.md#demo-tilaisuus)!
+ * Lopullinen palautus perjantaina 21.12. klo 23:59, tähän ei ole saatavilla lisäaikaa. Onnea kaikille koeviikolle!
  * Pajan ohjausaikaa järjestetään pyynnöstä. Laita kysymykset sähköpostilla, tai jos tarvitset lähiopetusta, niin järjestetään aika erikseen. Etäopetus onnistuu sähköpostilla myös.
  * Muista myös, että voit pyytää apua [Algopajassa](https://courses.helsinki.fi/fi/TKT20000/126082463)!
 
@@ -49,7 +49,7 @@ Käy kysymässä apua algoritmeihin liittyvissä asioissa [Algopajassa](https://
 ## Demotilaisuus
 
 * **Keskiviikkona 12.12. klo 12-14 salissa B222.**
-* **PAKOLLINEN** kurssin läpipääsyyn
+* **PAKOLLINEN!** Ota yhteyttä jos et ollut demotilaisuudessa, se on läpipääsyyn pakollinen!
 * Projektit ladattu etukäteen esityskoneelle, josta näytetään oma työ.
 * Noin 5min per projekti.
 * Ei tarvitse dioja, mutta halutessaan niitä voi käyttää, tosin ne vie aikaa, joten ei suositeltu, ellei tuo omaa konetta esitykseen.
